@@ -16,6 +16,6 @@
 <table width="100%">
   <tr>
     <td align="center"><img src="http://www.theasciicode.com.ar/american-standard-code-information-interchange/ascii-codes-table.png"/></td>
-	  <td align="center"><img src="https://cdn.meme.am/cache/instances/folder942/61515942.jpg"/></td>
+	  <td align="bottom"><img src="https://cdn.meme.am/cache/instances/folder942/61515942.jpg"/></td>
   </tr>
 </table>
