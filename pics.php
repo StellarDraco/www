@@ -4,7 +4,8 @@
 <PRE>
 <?php
 	echo "Type passphrase to open...";
-	if(isset($_GET['text' == '1234'])) {
+	if(isset($_GET['text'])){
+		$string = $_GET['string'];
 		echo "correct";
 } 	else {
 		echo "incorrect, please try again";
