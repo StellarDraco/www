@@ -1,5 +1,5 @@
 <form>
-	<input type="code" name="01"/>
+	<input type="string" name="string"/>
 </form>
 <PRE>
 <?php
