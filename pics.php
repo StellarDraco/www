@@ -1,5 +1,5 @@
 <form>
-	<input type="string" name="string"/>
+	<input type="string" style="text-align: center" name="string"/>
 </form>
 <PRE>
 <?php
@@ -17,5 +17,3 @@ echo "<br />";
 		echo "Please try again";
 	}
 ?>
-
-	
