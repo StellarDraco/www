@@ -5,11 +5,14 @@
 <?php
 $text = $_GET["string"];
 echo "Type passphrase to open...";
+echo "<br />";
 	if($text == "1234"){
 		echo "correct";
-} 	else{
+} 	elseif($text == ""){
+		echo "Type your response above";
+}       else{
 		echo "incorrect, please try again";
-}
+	}
 ?>
 
 	
