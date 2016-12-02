@@ -71,9 +71,9 @@
     <header>
         <div class="header-content">
             <div class="header-content-inner">
-                <h1 id="homeHeading">Your Favorite Uncle, perhaps?</h1>
+                <h1 id="homeHeading">0_0 No way...</h1>
                 <hr>
-                <p>Did you know everything is awesome??? Well sometimes it is!!!</p>
+                <p>XD XD XD XD XD XD XD XD XD</p>
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
             </div>
         </div>
