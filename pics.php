@@ -12,7 +12,7 @@ ob_start;
 		ob_get_clean();
 		ob_start();
 		echo "CORRECT";
-		echo "<br >/";
+		echo "<br />";
 		echo "Please wait";
 } 	elseif($text == ""){
 		echo "Please type your passphrase above";
