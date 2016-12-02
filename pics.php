@@ -11,8 +11,6 @@ ob_start;
 	if($text == "1234"){
 		echo "CORRECT";
 		echo "Please wait";
-		ob_get_clean();
-		ob_start();
 } 	elseif($text == ""){
 		echo "Please type your passphrase above";
 }       else{
