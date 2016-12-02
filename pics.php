@@ -7,7 +7,6 @@ $text = $_GET["string"];
 echo "Type passphrase to open...";
 echo "<br />";
 echo "<br />";
-ob_start();
 	if($text == "1234"){
 		echo "CORRECT";
 		sleep(1);
