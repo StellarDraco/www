@@ -3,11 +3,13 @@
 </form>
 <PRE>
 <?php
-	echo "Type passphrase to open...";
-	$TEXT = $_GET["string"];
-	if($TEST == "1234"{
+$text = $_GET["string"];
+echo "Type passphrase to open...";
+	if($text = "1234"){
 		echo "correct";
-}       else {
-		echo "incorrect";
-	}
+} 	else{
+		echo "incorrect, please try again";
+}
 ?>
+
+	
