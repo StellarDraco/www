@@ -10,7 +10,8 @@ echo "<br />";
 ob_start;
 	if($text == "1234"){
 		echo "CORRECT";
-		sleep(1);
+		echo "Please wait";
+		sleep(2);
 		ob_get_clean();
 		ob_start();
 } 	elseif($text == ""){
