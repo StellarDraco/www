@@ -4,8 +4,7 @@
 <PRE>
 <?php
 global $verifyed;
-$verifyed = 1;
-    echo "$verifyed";
+$verifyed = 0;
 $text = $_GET["string"];
 echo "<br />";
 ob_start;
