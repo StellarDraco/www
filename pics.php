@@ -3,6 +3,9 @@
 </form>
 <PRE>
 <?php
+global $verifyed;
+$verigyed = 1;
+    echo "$verifyed";
 $text = $_GET["string"];
 echo "<br />";
 ob_start;
