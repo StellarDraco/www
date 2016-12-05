@@ -14,6 +14,7 @@ ob_start;
 		echo "CORRECT";
 		echo "<br />";
 		echo "Please wait";
+		header("location:hex.php"
 } 	elseif($text == ""){
 		echo "Please type your passphrase above";
 }       else{
