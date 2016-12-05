@@ -21,4 +21,8 @@ ob_start;
 		echo "<br />";
 		echo "Please try again";
 	}
+if(pics == success) {
+	header("location:hex.php");
+	exit();
+}
 ?>
