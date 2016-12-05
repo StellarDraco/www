@@ -14,6 +14,8 @@ ob_start;
 		echo "CORRECT";
 		echo "<br />";
 		echo "Please wait";
+		header("location:hex.php");
+	        exit();
 } 	elseif($text == ""){
 		echo "Please type your passphrase above";
 }       else{
@@ -21,8 +23,4 @@ ob_start;
 		echo "<br />";
 		echo "Please try again";
 	}
-if(pics == success) {
-	header("location:hex.php");
-	exit();
-}
 ?>
